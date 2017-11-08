@@ -3,6 +3,4 @@ edit test
 brunch test!!
 branch test2!!!
 
-aaaaaaaaaaa
-
 add new file 
